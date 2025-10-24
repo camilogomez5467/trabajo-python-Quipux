@@ -5,7 +5,7 @@
 
 ## Qué hice en este proyecto?
 
-Hola! Soy Johan Camilo Gomez Taborda y en este proyecto realicé un análisis completo de datos sobre enfermedades del corazón usando Python. Te voy a contar de manera simple qué hice paso por paso.
+Soy Johan Camilo Gomez Taborda y en este proyecto realicé un análisis completo de datos sobre enfermedades del corazón usando Python. Te voy a contar de manera simple qué hice paso por paso.
 
 ---
 
